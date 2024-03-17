@@ -1,0 +1,27 @@
+L’algoritmo è una sequenza di istruzioni passo-passo che descrivono come fare qualcosa, scritte in un linguaggio di programmazione che dice all’esecutore che cosa fare, esattamente come una ricetta di cucina contiene le istruzioni per la preparazione di un piatto, una guida contiene le procedure da seguire nelle varie situazioni oppure uno spartito contiene tutte le indicazioni per eseguire un brano musicale.
+I passaggi che portano dal problema al programma che lo risolve possono essere i seguenti:
+1. Si parte da un problema, cioè, genericamente, una situazione o un quesito che richiede una soluzione, partendo da elementi conosciuti. 
+2. Si trova un algoritmo, ovvero un metodo per risolvere il problema. 
+3. Si scrive il programma che realizza l’algoritmo. 
+
+Una variabile identifica una porzione di memoria del computer che contiene un dato e alla quale si può accedere, per leggere o modificare il suo contenuto, tramite un nome ( o identificatore).
+Possiamo considerare una variabile come una scatola (o un cassetto) con un nome che la identifica e che contiene un valore. E’ detta “variabile” perché il suo contenuto può variare nel tempo, cioè nel corso del programma. 
+Il nome di una variabile identifica univocamente un contenitore specifico. 
+Per creare (o dichiarare) una variabile si una la parola chiave let.
+Per memorizzare un valore in una variabile si utilizza l’operatore di assegnazione rappresentato dal simbolo =.
+Quindi l’espressione che crea una variabile è composta da tre elementi:
+nome della variabile (mioNome)
+operatore di assegnamento (=)
+contenuto (“Beatrice”)
+Una variabile è identificata da una nome che deve rispettare alcune regole:
+non deve coincidere con una delle parole chiave del linguaggio
+non può iniziare con un numero
+non può contenere caratteri speciali (sono ammessi solo i simboli _ e $)
+
+
+
+Null è un valore primitivo e viene utilizzato per rappresentare l'assenza intenzionale di un valore.
+Quando si assegna esplicitamente null a una variabile, si sta indicando che la variabile è vuota o non definita. È possibile utilizzare null per svuotare o reimpostare il valore di una variabile precedente.
+
+Undefined è anche un valore primitivo. Indica che una variabile è stata dichiarata ma non inizializzata, o che una proprietà di un oggetto non è stata assegnata. Quando si accede a una variabile che non è stata inizializzata, JavaScript restituirà undefined.
+
